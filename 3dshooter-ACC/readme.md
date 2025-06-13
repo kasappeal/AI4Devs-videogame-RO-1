@@ -29,7 +29,9 @@ A browser-based 3D shooter game built with Three.js. Survive as long as you can 
 
 ## Example Screencast
 
-[![Watch Screencast](screenshot.png)](screencast.mp4)]
+https://github.com/kasappeal/AI4Devs-videogame-RO-1/blob/main/3dshooter-ACC/screencast.mp4
+
+![Watch Screencast](screencast.mp4)
 
 ## Example Screenshot
 
