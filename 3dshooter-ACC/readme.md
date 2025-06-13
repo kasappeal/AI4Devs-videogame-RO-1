@@ -29,7 +29,7 @@ A browser-based 3D shooter game built with Three.js. Survive as long as you can 
 
 ## Example Screencast
 
-[![Watch Screencast](screenshot.png)](screencast.mp4)
+[![Watch Screencast](screenshot.png)](screencast.mp4)]
 
 ## Example Screenshot
 
